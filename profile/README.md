@@ -1,10 +1,10 @@
 <div align=center>
-   <img src="https://github.com/ProjectKinni/kkini/assets/129160778/186f0dd8-3722-47b0-b80b-5bd644de4b8f" width=300/>
+   <img src="https://drive.google.com/uc?export=view&id=1c6R5hxJaf4wU4db7FOovo6QgY3baoeh2" width=300/>
 </div>
 
 <h3 align=center>👥 Team KKINI 👥</h3>
 <h4 align=center>
-조장: 장진서 <br><br>
+조장: 장진서 <br>
 조원: 송민지 <br>
 조원: 박재현 <br>
 조원: 이형승 <br>
