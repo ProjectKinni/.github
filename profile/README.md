@@ -1,20 +1,9 @@
-<div align=center>
-   <img src="https://drive.google.com/uc?export=view&id=1c6R5hxJaf4wU4db7FOovo6QgY3baoeh2" width=300/>
-</div>
+# KKINI Web Application
+## Project Architecture
+![kkini_project_diagram](https://github.com/ProjectKinni/.github/assets/66301972/6c885404-b749-486b-ba5e-e56ea39c3f10)
+## About KKINI
+![제목을-입력해주세요_-001](https://github.com/ProjectKinni/.github/assets/66301972/2b10c3db-8b57-42d6-ae4d-421468a30f2b)
 
-<h3 align=center>👥 Team KKINI 👥</h3>
-<h4 align=center>
-조장: 장진서 <br>
-조원: 송민지 <br>
-조원: 박재현 <br>
-조원: 이형승 <br>
-</h4><br>
-
-<h3 align=center>📒프로젝트 개요📒</h3>
-<h4 align=center><p>끼니는 "끼니 때우다"의 끼니로, 간편식 정보를 손쉽게 전달하는 웹/앱 서비스입니다.</p>
-                 <p>간편식 상품들은 다양하게 나와있지만, 그 중에서 나에게 맞는 최적의 상품을 찾는 것은 어려운 일입니다.</p>
-                 <p>끼니는 이러한 어려움을 해결하고자 시작된 프로젝트로, 이용자의 시간과 노력을 절약하고,</p>
-                 <p>정확하고 신뢰성 있는 정보를 제공하여 구매 결정 과정을 돕습니다.</p>
 </h4><br>
 
 <div align=center>
