@@ -1,6 +1,6 @@
 # KKINI Web Application
 ## Project Architecture
-![kkini_project_diagram](https://github.com/ProjectKinni/.github/assets/66301972/6c885404-b749-486b-ba5e-e56ea39c3f10)
+![kkini_project_diagram](https://github.com/ProjectKinni/.github/assets/66301972/ff098c4f-f92a-4243-b05b-bfa163c940eb)
 ## About KKINI
 ![제목을-입력해주세요_-001](https://github.com/ProjectKinni/.github/assets/66301972/2b10c3db-8b57-42d6-ae4d-421468a30f2b)
 
