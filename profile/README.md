@@ -2,7 +2,7 @@
 ## Project Architecture
 ![kkini_project_diagram](https://github.com/ProjectKinni/.github/assets/66301972/ff098c4f-f92a-4243-b05b-bfa163c940eb)
 ## About KKINI
-![제목을-입력해주세요_-001](https://github.com/ProjectKinni/.github/assets/66301972/2b10c3db-8b57-42d6-ae4d-421468a30f2b)
+![_kkini_-001](https://github.com/ProjectKinni/.github/assets/66301972/36d94d5d-b4af-4658-b555-fb714235f5eb)
 
 </h4><br>
 
@@ -56,12 +56,3 @@
 </div>
 <br>
 
-<div align=center>
-   <p>🎨 Portfolio 🎨</p>
-</div>
-<div align=center>
-   <a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-   </a>
-   <br>
-</div>
